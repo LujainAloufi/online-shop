@@ -17,6 +17,10 @@ This project is a **full-stack e-commerce web application** developed using **No
 - **Add, Edit, and Delete Products**
 - **View Orders Placed by Users**
 - **Admin Authentication** to restrict access
+  
+### Additional Features
+- **Automatic Typing Effect** for the main title.
+- **Custom Arabic Font** Uses Google Fonts for improved Arabic text display.
 
 ---
 
