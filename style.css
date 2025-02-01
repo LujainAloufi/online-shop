@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@400;700&display=swap');
+
+body {
+    font-family: 'Noto Kufi Arabic', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background: url('background.png') no-repeat center center fixed;
+    background-size: cover;
+    direction: rtl;
+}
+
+header {
+    background-color: #000C74;
+    color: white;
+    padding: 20px;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 20px;
+    text-align: center;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+header img {
+    height: 60px;
+    width: 50px;
+    margin-left: 20px;
+    border-radius: 100px;
+}
+
+@keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+}
+
+.typing-effect {
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 2px solid white;
+    width: 0;
+    animation: typing 3s steps(30, end) forwards;
+}
+
+.navbar {
+    background-color: #6E75B6;
+    position: sticky;
+    top: 70px;
+    z-index: 999;
+}
+
+.navbar-nav {
+    margin-right: auto;
+
+}
+
+.navbar-nav .nav-link {
+    color: #000C74;
+    transition: background-color 0.3s, color 0.3s;
+    padding: 10px 20px;
+}
+
+.navbar-nav .nav-link:hover {
+    background-color: #000C74;
+    color: white;
+}
+
+#products-container, #cart-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+    padding-top: 100px;
+}
+
+li {
+    color: #000C74;
+}
+
+.product {
+    background: white;
+    padding: 15px;
+    margin: 10px;
+    width: 300px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    text-align: right;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.product img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.product h3 {
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+.product p {
+    color: #555;
+    font-size: 14px;
+}
+
+.product button {
+    background: #6E75B6;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.product button:hover {
+    background: #000C74;
+}
+
+.btn-primary, .btn-success, .btn-danger, .btn-warning {
+    background-color: #6E75B6;
+    border: none;
+}
+
+.btn-primary:hover, .btn-success:hover, .btn-danger:hover, .btn-warning:hover {
+    background-color: #000C74;
+}
+
+.product-hover {
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.product-hover:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+}
