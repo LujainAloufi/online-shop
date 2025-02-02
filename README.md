@@ -86,8 +86,7 @@ This project is open-source and available under the MIT License.
 
 ---
 
-# Resources
-
-- [Data Structures and Algorithms](https://satr.codes/course/vZLAcAzoFz/view) - A comprehensive course covering fundamental data structures and algorithmic problem-solving techniques.
-- [Introduction to Web Development](https://satr.codes/course/hNUwyBUKmF/view) - Learn the basics of web development, including HTML, CSS, and JavaScript.
-- [Python Programming Basics](https://satr.codes/course/CATspNvVjT/view) - A beginner-friendly course on Python programming, covering essential syntax and problem-solving.
+## Resources
+- [Introduction to DOM](https://satr.codes/course/vZLAcAzoFz/view).
+- [Introduction to Web Development](https://satr.codes/course/hNUwyBUKmF/view).
+- [Introduction to HTML](https://satr.codes/course/CATspNvVjT/view). 
