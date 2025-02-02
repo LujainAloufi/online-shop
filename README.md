@@ -88,5 +88,5 @@ This project is open-source and available under the MIT License.
 
 ## Resources
 - [Introduction to DOM](https://satr.codes/course/vZLAcAzoFz/view).
-- [Introduction to Web Development](https://satr.codes/course/hNUwyBUKmF/view).
+- [Introduction to Web CSS](https://satr.codes/course/hNUwyBUKmF/view).
 - [Introduction to HTML](https://satr.codes/course/CATspNvVjT/view). 
