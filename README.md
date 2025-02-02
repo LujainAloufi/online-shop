@@ -84,3 +84,10 @@ This project is open-source and available under the MIT License.
 ## Presentation
 [Project Presentation](https://www.canva.com/design/DAGdw1KNywk/y_Nt_MnFz4nAwhvA8EORcg/edit?utm_content=DAGdw1KNywk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton ). 
 
+---
+
+# Resources
+
+- [Data Structures and Algorithms](https://satr.codes/course/vZLAcAzoFz/view) - A comprehensive course covering fundamental data structures and algorithmic problem-solving techniques.
+- [Introduction to Web Development](https://satr.codes/course/hNUwyBUKmF/view) - Learn the basics of web development, including HTML, CSS, and JavaScript.
+- [Python Programming Basics](https://satr.codes/course/CATspNvVjT/view) - A beginner-friendly course on Python programming, covering essential syntax and problem-solving.
