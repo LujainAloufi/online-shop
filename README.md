@@ -76,35 +76,36 @@ PORT=3000
 
 ---
 
-## ScreemShots
+## ScreenShots
 
-1. `screenshots/index.png`  
-   **Description**: Screenshot of the main store page displaying the products.
+### Home Page
+![Home Page](screenshots/index.png)
 
-2. `screenshots/products.png`  
-   **Description**: Screenshot of the product display page on the main store or admin panel.
+### Products Page
+![Products Page](screenshots/products.png)
 
-3. `screenshots/user-login.png`  
-   **Description**: Screenshot of the user login page.
+### User Login
+![User Login](screenshots/user-login.png)
 
-4. `screenshots/add-to-cart.png`  
-   **Description**: Screenshot of the "Add to Cart" button for products.
+### Add to Cart
+![Add to Cart](screenshots/add-to-cart.png)
 
-5. `screenshots/cart.png`  
-   **Description**: Screenshot of the shopping cart page showing the added products.
+### Shopping Cart
+![Shopping Cart](screenshots/cart.png)
 
-6. `screenshots/purchase.png`  
-   **Description**: Screenshot of the checkout page where the user completes the purchase.
+### Checkout Page
+![Checkout Page](screenshots/purchase.png)
 
-7. `screenshots/admin.png`  
-   **Description**: Screenshot of the admin panel for managing products.
+### Admin Panel
+![Admin Panel](screenshots/admin.png)
 
-8. `screenshots/products-manger.png`  
-   **Description**: Screenshot of the admin product management interface.
+### Product Management
+![Product Management](screenshots/products-manger.png)
 
-9. `screenshots/admin-login.png`  
-   **Description**: Screenshot of the admin login page.
-   
+### Admin Login
+![Admin Login](screenshots/admin-login.png)
+
+  
 ---
 
 ## License
