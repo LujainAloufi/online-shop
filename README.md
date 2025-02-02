@@ -78,31 +78,31 @@ PORT=3000
 
 ## ScreemShots
 
-1. `images/index.png`  
+1. `screenshots/index.png`  
    **Description**: Screenshot of the main store page displaying the products.
 
-2. `images/products.png`  
+2. `screenshots/products.png`  
    **Description**: Screenshot of the product display page on the main store or admin panel.
 
-3. `images/user-login.png`  
+3. `screenshots/user-login.png`  
    **Description**: Screenshot of the user login page.
 
-4. `images/add-to-cart.png`  
+4. `screenshots/add-to-cart.png`  
    **Description**: Screenshot of the "Add to Cart" button for products.
 
-5. `images/cart.png`  
+5. `screenshots/cart.png`  
    **Description**: Screenshot of the shopping cart page showing the added products.
 
-6. `images/purchase.png`  
+6. `screenshots/purchase.png`  
    **Description**: Screenshot of the checkout page where the user completes the purchase.
 
-7. `images/admin.png`  
+7. `screenshots/admin.png`  
    **Description**: Screenshot of the admin panel for managing products.
 
-8. `images/products-manger.png`  
+8. `screenshots/products-manger.png`  
    **Description**: Screenshot of the admin product management interface.
 
-9. `images/admin-login.png`  
+9. `screenshots/admin-login.png`  
    **Description**: Screenshot of the admin login page.
    
 ---
